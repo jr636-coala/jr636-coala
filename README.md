@@ -1,1 +1,1 @@
-[other git](https://git.ab24.xyz/jr636-coala)
+[other git](https://git.ab24.xyz)
